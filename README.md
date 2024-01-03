@@ -15,7 +15,7 @@ Includes the following features...
 Run Dev Server (Port 3000)
 
 ```
-  npm run dev
+npm run dev
 ```
 
 ## Build for production
